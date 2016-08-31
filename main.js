@@ -1,13 +1,3 @@
-// ==UserScript==
-// @name        Toms's Hardware 
-// @namespace   tomshw
-// @description Rende decente la grafica di tom's hardware
-// @include     https://www.tomshw.it/*
-// @version     1
-// @grant       none
-// ==/UserScript==
-
-
 // nella home
 
 $(".container").css("max-width","1300px")

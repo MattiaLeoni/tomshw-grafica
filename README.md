@@ -22,5 +22,5 @@ Per installarlo aggiungere il seguente userscript
 Si aggiornerà automaticamente da questa repository
 
 
-!(img)[http://i.imgur.com/DEThsqU.png]
-!(img)[http://i.imgur.com/pegQHS9.png]
+![img](http://i.imgur.com/DEThsqU.png)
+![img](http://i.imgur.com/pegQHS9.png)

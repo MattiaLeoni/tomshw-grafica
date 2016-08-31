@@ -1,9 +1,9 @@
 # tomshw-grafica
 Script per rendere decente la grafica del sito tomshw.it
 
-Testato su Firefox con greasemonkey.
+Testato su Firefox e Chromium con greasemonkey e tampermonkey rispettivamente.
 
-Per installarlo aggiungere il seguente userscript
+Per installarlo aggiungere il seguente userscripy, basta andare nel plugin e cliccare su "aggiungi script" o cose del genere, e copiaincollare questo:
 
 ```javascript
 

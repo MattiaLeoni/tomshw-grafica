@@ -1,8 +1,6 @@
 ###Script per rendere decente la grafica del sito tomshw.it (beta)
 
-Testato su Firefox e Chromium con greasemonkey e tampermonkey rispettivamente.
-
-Per utilizzare questo userscript bisogna installare i plugin grasemonkey o tampermonkey, andare nelle relative opzioni, cliccare su "aggiungi script", e incollare il seguente codice:
+Per utilizzare questo userscript bisogna installare i plugin grasemonkey o tampermonkey (su firefox e chrome rispettivamente), andare nelle relative opzioni, cliccare su "aggiungi script", e incollare il seguente codice:
 
 ```javascript
 

@@ -7,11 +7,17 @@ $(".adv, .header-repubblica").remove();
 if(window.location.href === "https://www.tomshw.it/"){   // pagina principale
 
   $(".main-column").css("max-width","100%")
+  
+  //Aggiunto
+  $(".home-flow .content-list-small").css("padding","0px 5px")
+  $(".home-flow .content-list-small .content .content-image").css("margin","0px")
+  $(".home-flow .content-list-small .content .content-info").css("padding","5px 10px")
+  $(".home-flow .content-list-small").css("flex","0 0 500px")
+  $(".content-list>.content .content-info time").css("margin-bottom", "5px")
 
   $(".content-list .img-responsive").remove() // le immagini in mezzo alle scatole
   $(".content-list .box-list").remove() // voci dalle aziende
-  $(".aside-newsletter").remove() //newsletter
-
+  $(".aside-newsletter").remove() //newsletter  
 
 }else{ // pagina notizia
 

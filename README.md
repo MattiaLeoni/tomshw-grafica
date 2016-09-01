@@ -1,5 +1,4 @@
-# tomshw-grafica
-Script per rendere decente la grafica del sito tomshw.it
+###Script per rendere decente la grafica del sito tomshw.it
 
 Testato su Firefox e Chromium con greasemonkey e tampermonkey rispettivamente.
 
@@ -20,6 +19,8 @@ Per installarlo aggiungere il seguente userscripy, basta andare nel plugin e cli
 ```
 
 Si aggiornerà automaticamente da questa repository
+
+I cambiamenti sono mirati ad ottimizzare la visione del sito da un monitor in 1080p
 
 
 ![img](http://i.imgur.com/DEThsqU.png)

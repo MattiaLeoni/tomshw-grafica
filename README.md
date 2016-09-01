@@ -1,4 +1,4 @@
-###Script per rendere decente la grafica del sito tomshw.it
+###Script per rendere decente la grafica del sito tomshw.it (beta)
 
 Testato su Firefox e Chromium con greasemonkey e tampermonkey rispettivamente.
 

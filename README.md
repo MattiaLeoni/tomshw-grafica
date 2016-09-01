@@ -2,7 +2,7 @@
 
 Testato su Firefox e Chromium con greasemonkey e tampermonkey rispettivamente.
 
-Per installarlo aggiungere il seguente userscript, basta andare nel plugin (grease/tamper monkey), cliccare su "aggiungi script", e incollare il seguente codice:
+Per utilizzare questo userscript bisogna installare i plugin grasemonkey o tampermonkey, andare nelle relative opzioni, cliccare su "aggiungi script", e incollare il seguente codice:
 
 ```javascript
 
